@@ -54,3 +54,6 @@ So now we are here, is hate a good advisor. I would say no, it blinds our senses
 I know that this topic is a very emotional one, but I would love to hear what do you think about hate in programming?
 
 Thanks for reading.
+
+---
+Title Image by Tim Gouw from Pexels 
