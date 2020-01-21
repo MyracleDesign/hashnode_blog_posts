@@ -15,21 +15,21 @@ That means we do not like something, and it is very, very difficult to change th
 
 %[https://tenor.com/oFoo.gif]
 
-# Blocking to learn
+## Blocking to learn
 The first significant disadvantage of hate a programming language is that it blocks your brain of learning it. You will always stumble about the things you do not like about the language and will never see the benefits of the language and also the achievements that this language managed to achieve. The concentration will always be on the negative side, and this is hard to overcome. 
 
 As a software engineer, we have to learn every day. There is always a new API or another Framework. Our bosses have a great idea, or our colleagues want to try something new. So if we hate a subject that we have to work in makes us less value in that task. That lack of motivation could lead to bad performance and could, in the worst case, cost our job.
 
 Learning is a challenging task, and it costs a lot of energy. So if we do not enjoy a topic, we start to block and concentrate on something we like. That leads to even worse learning results and because we cannot learn something, we begin to hate it, even more, this leads to a vicious circle that is very hard to escape.
 
-# Block opinions and support bad decisions
+## Block opinions and support bad decisions
 If we hate something, we tend to disagree with everyone who has another opinion on a topic. If someone is telling you that he achieved something in a subject you hate, you will start to lower his result. The same will happen if you hate something and a colleague brings up a good idea if you hate already what he is saying you maybe lose a great opportunity and even worse, discourage your workmate so that he will never come up with a good idea.
 
 With this in mind, there is a lot of potentials that we may be a disgrace because we "hate" a tool or a framework. Even if it is maybe the best tool for the job and instead decide for something else that perhaps brings technical debts for the next couple of years, just because we hated something. Never underestimate how vital our opinion about a tool is because Product Owner and Decision-maker have to trust our expertise as Engineers when it comes to development. So you are one of the most essential sources of knowledge in that area.
 
 %[https://tenor.com/oe46.gif]
 
-# Lack of motivation
+## Lack of motivation
 So you hate to work with, for example, Visual Studio Code, but your chef can not afford a Jet brains license. (Which should always be possible) You will immediately be discouraged, and if you hate it, you close yourself the opportunity to learn something new, and maybe find new plugins and tools that can help to increase your productivity. 
 
 This could lead to reduced motivation and also to a decrease in productivity. I do not say you have to be a professional Visual Studio guru with all short cuts and best in slot plugins, but it is crucial to see that sometimes things can not be changed and you have to tackle the problem rather than to give up. 
